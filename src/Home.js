@@ -14,48 +14,48 @@ function Home() {
                 <div className="home__row">
                     <Product 
                         id="1"
-                        title="The Power of your Subconscious Mind" 
-                        image="https://images-na.ssl-images-amazon.com/images/I/51QTTApN-XL._SX324_BO1,204,203,200_.jpg" 
-                        price={160.12} 
-                        rating={5}
+                        title="Echo Dot (3rd Gen) – New and improved smart speaker with Alexa (Black)" 
+                        image="https://images-na.ssl-images-amazon.com/images/I/61EXU8BuGZL._SL1100_.jpg" 
+                        price={2999} 
+                        rating={4}
                     />
                     <Product 
                         id="2"
-                        title="The book is available in two types, the kindle edition as well as the paperback edition. The book contains 312 pages of wisdom and positive energy. The modern English language used is easy to understand. " 
-                        image="https://images-na.ssl-images-amazon.com/images/I/51QTTApN-XL._SX324_BO1,204,203,200_.jpg" 
-                        price={160.12} 
+                        title="Attitude Is Everything: Change Your Attitude ... Change Your Life!" 
+                        image="https://images-na.ssl-images-amazon.com/images/I/41F8ATXoMOL._SX317_BO1,204,203,200_.jpg" 
+                        price={199} 
                         rating={5}
                     />
                 </div>
                 <div className="home__row">
                     <Product 
                         id="3"
-                        title="The Power of your Subconscious Mind" 
-                        image="https://images-na.ssl-images-amazon.com/images/I/51QTTApN-XL._SX324_BO1,204,203,200_.jpg" 
-                        price={160.12} 
-                        rating={5}
+                        title="Mediweave Compact Digital Infrared (IR) Thermometer Gun AET-R1D1 (1 Pieces), CE and RoHS Certified" 
+                        image="https://images-na.ssl-images-amazon.com/images/I/51UZD2kVt1L._SL1000_.jpg" 
+                        price={3129} 
+                        rating={2}
                     />
                     <Product 
                         id="4"
-                        title="The Power of your Subconscious Mind" 
-                        image="https://images-na.ssl-images-amazon.com/images/I/51QTTApN-XL._SX324_BO1,204,203,200_.jpg" 
-                        price={160.12} 
+                        title="Sunfeast Dark Fantasy Choco Fills, Enrobed within a perfectly baked rich cookie outer " 
+                        image="https://images-na.ssl-images-amazon.com/images/I/712UP4Hr-kL._SL1500_.jpg" 
+                        price={30} 
                         rating={5}
                     />
                     <Product 
                         id="5"
-                        title="The Power of your Subconscious Mind" 
-                        image="https://images-na.ssl-images-amazon.com/images/I/51QTTApN-XL._SX324_BO1,204,203,200_.jpg" 
-                        price={160.12} 
-                        rating={5}
+                        title="Nescafe Gold Blend Rich and Smooth Coffee Powder, 100g Glass Jar" 
+                        image="https://images-na.ssl-images-amazon.com/images/I/71zS922yVqL._SL1500_.jpg" 
+                        price={499} 
+                        rating={4}
                     />
                 </div>
                 <div className="home__row">
                 <Product 
                         id="6"
-                        title="The book is available in two types, the kindle edition as well as the paperback edition. The book contains 312 pages of wisdom and positive energy. The modern English language used is easy to understand. " 
-                        image="https://images-na.ssl-images-amazon.com/images/I/51QTTApN-XL._SX324_BO1,204,203,200_.jpg" 
-                        price={160.12} 
+                        title="Sony Bravia 138.8 cm (55 inches) 4K Ultra HD Smart LED TV KD-55X7002G (Black), Live an enriching viewing experience with brilliant clarity powered by 4K X-Reality Pro and TRILUMINOS™ Display on this TV. Discover the thrilling entertainment with direct YouTube & Netflix button and USB Tethering." 
+                        image="https://images-na.ssl-images-amazon.com/images/I/81Nw2ifyBzL._SL1500_.jpg" 
+                        price={109900} 
                         rating={5}
                     />
                 </div>
